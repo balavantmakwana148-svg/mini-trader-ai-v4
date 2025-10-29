@@ -1,1 +1,0 @@
-# mini-trader-ai-v4
